@@ -76,6 +76,7 @@ This project aims to build a fully open-source, privacy-preserving Android app f
 
 
 ## For support; Direct XMR Donations: <br>
-<div style="text-align:center;">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/7e9c5541-0556-46c9-bd3b-6977abd558f0" width="150" />
-</div>
+</p>
+
