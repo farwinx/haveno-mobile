@@ -1,7 +1,7 @@
 # Haveno Android App – Roadmap
 
-*For support:*
-<img src="https://github.com/user-attachments/assets/7e9c5541-0556-46c9-bd3b-6977abd558f0" width="150" />
+*For support:* <br>
+<img src="https://github.com/user-attachments/assets/7e9c5541-0556-46c9-bd3b-6977abd558f0" width="100" />
 
 
 ## Project Overview
