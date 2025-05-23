@@ -1,6 +1,8 @@
 # Haveno Android App – Roadmap
 
-![Alt Text](/haveno_mobile.png)
+<div align="center">
+  <img src="haveno_mobile.png" alt="Mobile Logo" width="300"/>
+</div>
 
 
 
