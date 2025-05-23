@@ -1,5 +1,9 @@
 # Haveno Android App – Roadmap
 
+![Alt Text](/haveno_mobile.png)
+
+
+
 ## Project Overview
 
 This project aims to build a fully open-source, privacy-preserving Android app for the [Haveno DEX](https://github.com/haveno-dex/haveno), allowing users to privately trade Monero and other assets on mobile. The app must support both standalone operation and remote desktop sync, enforce Tor-only communication, and include an integrated self-custodial wallet.
