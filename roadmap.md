@@ -72,15 +72,6 @@ This project aims to build a fully open-source, privacy-preserving Android app f
 - Maintain a modular code structure (UI, network, wallet, Tor, etc.)
 - Code should be testable, auditable, and community-friendly
 
-## Bounty Completion Criteria
-
-- The app is fully open-source and publicly available
-- Community can build and run the app (reproducible build)
-- At least one working demo (either remote mode or full node)
-- Wallet integration and basic trading features are functional
-- App meets Haveno’s privacy-first, decentralized design goals
-
-
 ## For support; Direct XMR Donations: <br>
 <p align="center">
    <i>84AWnCLPUqVfKLaRPvFbkYNvoCxiNJkj7WRZNezrRPxGEggQ2CvdvnXarH31gM1xQs3GzrpQxj6J7PJ35P3ESiX4AsAdXcD</i> <br>
