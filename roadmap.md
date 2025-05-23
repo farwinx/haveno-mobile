@@ -70,7 +70,7 @@ This project aims to build a fully open-source, privacy-preserving Android app f
 - Ensure builds are reproducible and transparent
 - No analytics, telemetry, or tracking libraries
 - Maintain a modular code structure (UI, network, wallet, Tor, etc.)
-- Code should be testable, auditable, and community-friendly
+- Code should be testable and auditable
 
 ## For support; Direct XMR Donations: <br>
 <p align="center">
